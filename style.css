@@ -1,0 +1,82 @@
+body {
+    background-color: blue;
+}
+
+img {
+    width:400px;
+    height:400px;
+}
+
+table {
+    color: white;
+    background-color: skyblue;
+}
+
+.subtitle {
+    font-size:14px;
+}
+
+.link {
+    color:#CDCD00;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.center {
+    text-align: center;
+}
+
+h1.center {
+    text-align: center;
+}
+
+hgroup.MS {
+    color: red;
+
+}
+
+h1 {
+    color: chocolate;
+}
+
+#H {
+    color: red;
+}
+
+#H:hover {
+    transition: color 0.25s;
+    color: skyblue;
+}
+
+
+.MS1 {
+    background-color: aquamarine;
+    color:#80002B
+}
+
+.MS2 {
+    background-color:cadetblue;
+    color:#A0615F;
+}
+
+.MS3 {
+    background-color: steelblue;
+    color:#B47846;
+}
+
+.MS4 {
+    background-color:blue;
+    color:yellow;
+}
+
+.MS5 {
+    background-color: mediumblue;
+    color:#CDCD00
+}
+
+
+
